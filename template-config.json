@@ -3,7 +3,7 @@
     "description": "Vue + TS + Element 项目模板",
     "registry": ""
   },
-  "test": {
+  "test-template": {
     "description": "测试模板",
     "registry": ""
   }
