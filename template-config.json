@@ -2,5 +2,9 @@
   "vue-ts-element": {
     "description": "Vue + TS + Element 项目模板",
     "registry": ""
+  },
+  "test": {
+    "description": "测试模板",
+    "registry": ""
   }
 }
